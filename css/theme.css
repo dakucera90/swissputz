@@ -5,7 +5,7 @@
 /*GENERAL*/
 
 html { 
-background: url('../img/fasada.jpg'); 
+background: url("Web/img/fasada.jpg"); 
 background-repeat: no-repeat;
 background-attachment: fixed;
 -webkit-background-size: cover;
@@ -126,12 +126,12 @@ background: rgba(255, 255, 255, 0.7);
 }
 
 .stripes1 {
-background-image: url("../img/stripes.png");
+background-image: url("Web/img/stripes.png");
 z-index: 100;
 }
 
 .stripes2 {
-background-image: url("../img/stripes2.png");
+background-image: url("Web/img/stripes2.png");
 }
 
 .sink {
